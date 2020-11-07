@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.28307.1259
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "asm_chall", "asm_chall\asm_chall.vcxproj", "{A8044587-9CB0-4ECB-906B-86651CA66CEF}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chall list", "Chall list", "{1BB14E02-5AFE-4A37-8B0B-4DABFEF02CE2}"
+	ProjectSection(SolutionItems) = preProject
+		1_Hello.asm = 1_Hello.asm
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
